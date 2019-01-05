@@ -1,4 +1,5 @@
 import React from 'react';
+import './SearchPanel';
 
 const SearchPanel = () => {
     const searchText = 'Type to search';
