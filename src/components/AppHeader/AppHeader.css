@@ -1,3 +1,25 @@
+.header {
+  display: flex; }
 
+.title {
+  margin-bottom: 15px;
+  font-size: 1.1rem;
+  font-weight: 700;
+  flex-grow: 0; }
+
+.stat {
+  font-size: 0.8rem;
+  flex-grow: 1;
+  text-align: right; }
+
+.stat__todo {
+  padding-right: 40px;
+  margin-bottom: 3px; }
+
+.stat__done {
+  margin-bottom: 10px; }
+
+@media (max-width: 991px) {
+  font-size: 1.3em; }
 
 /*# sourceMappingURL=AppHeader.css.map */

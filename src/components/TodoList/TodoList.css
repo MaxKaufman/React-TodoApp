@@ -1,5 +1,9 @@
 .todo-list {
-  color: #303030;
-  font-size: 16px; }
+  list-style: none;
+  color: #303030; }
+
+.todo-list__item {
+  padding: 10px 0;
+  border-bottom: 1px solid rgba(235, 235, 235, 0.8); }
 
 /*# sourceMappingURL=TodoList.css.map */

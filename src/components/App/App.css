@@ -1,3 +1,14 @@
+#root {
+  margin: 0 auto;
+  padding: 1rem 20px;
+  max-width: 600px;
+  height: 100vh; }
 
+html {
+  font-size: 20px;
+  font-family: 'Open Sans', sans-serif;
+  color: #e1e1e1;
+  background: linear-gradient(135deg, #131313 0%, #3b4163 9%, #2b2b2b 24%, #111111 40%, black 55%, #232a38 59%, #141314 64%, #474747 75%, #595959 88%, #3e3e4f 92%, #050303 100%) 0 0 no-repeat;
+  background-size: cover; }
 
 /*# sourceMappingURL=App.css.map */

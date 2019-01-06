@@ -1,3 +1,8 @@
-
+.search-inp {
+  margin-bottom: 25px;
+  padding: 2px 10px;
+  background-color: rgba(255, 255, 255, 0.7);
+  border: transparent;
+  border-radius: 20px; }
 
 /*# sourceMappingURL=SearchPanel.css.map */

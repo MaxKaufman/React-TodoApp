@@ -1,7 +1,10 @@
 $dark: rgb(48,48,48);
-$base-size: 16px;
 
 .todo-list {
+  list-style: none;
   color: $dark;
-  font-size: $base-size;
+}
+.todo-list__item {
+  padding: 10px 0;
+  border-bottom: 1px solid rgba(235,235,235,0.8);
 }

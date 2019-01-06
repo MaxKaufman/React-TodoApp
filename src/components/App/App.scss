@@ -1,1 +1,17 @@
+$base-size: 20px;
+$theme-color: rgb(48, 48, 48);
+$white: rgb(225, 225, 225);
+#root {
+  margin: 0 auto;
+  padding: 1rem 20px;
+  max-width: 600px;
+  height: 100vh;
+}
 
+html {
+  font-size: $base-size;
+  font-family: 'Open Sans', sans-serif;
+  color: $white;
+  background: linear-gradient(135deg, rgba(19, 19, 19, 1) 0%, rgba(59, 65, 99, 1) 9%, rgba(43, 43, 43, 1) 24%, rgba(17, 17, 17, 1) 40%, rgba(0, 0, 0, 1) 55%, rgba(35, 42, 56, 1) 59%, rgba(20, 19, 20, 1) 64%, rgba(71, 71, 71, 1) 75%, rgba(89, 89, 89, 1) 88%, rgba(62, 62, 79, 1) 92%, rgba(5, 3, 3, 1) 100%) 0 0 no-repeat;
+  background-size: cover;
+}
